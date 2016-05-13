@@ -359,6 +359,9 @@
     [self startPrint:sendData];
 }
 
+
+
+ß
 - (void)startPrint:(NSData *)writeData
 {
     if (self.connectedPeripheral && self.connectedCharacteristic) {
